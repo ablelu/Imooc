@@ -1,0 +1,23 @@
+{
+  "name": "imooc",
+  "version": "1.0.0",
+  "authors": [
+    "AbleLu <ableluwenbo@gmail.com>"
+  ],
+  "description": "imooc movie project with Express+Mongo+Bootstrap+JQuery",
+  "keywords": [
+    "imooc"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.2.0"
+  }
+}
